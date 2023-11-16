@@ -16,7 +16,7 @@
 <span align="right">Started learning to code when I was in high school using Java and using MySQL as Database, as well as Web developing using HTML and CSS, now I started learning other languages such as Python, C/C++ and Assembly!</span>
 </br>
   <h3>Known Laguages</h3>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height=40>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height=40><img src="https://static.thenounproject.com/png/5151631-200.png" height=40><img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height=40>
 </div>
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
