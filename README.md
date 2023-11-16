@@ -12,7 +12,7 @@
 </div>
 <div>
 <h3>Software Development</h3>
-<img scr="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img scr="[https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4M2lrMTV4eDM3aTlkbHhpc2UyMnU0NzU3bWNsMjY5a3k1OGVuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)" />
 <span>Started learning to code when I was in high school using Java and using MySQL as Database, as well as Web developing using HTML and CSS, now I started learning other languages such as Python, C/C++ and Assembly!</span>
 </div>
 <!--
