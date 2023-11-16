@@ -17,6 +17,7 @@
 </br>
   <h3>Known Laguages</h3>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height=40><img src="https://static.thenounproject.com/png/5151631-200.png" height=40><img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height=40><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height=40>
+</br>
 </div>
 
 <div>
@@ -26,6 +27,7 @@
 </br>
   <h3>Known Tools</h3>
   <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" height=40><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=40><img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" height=40><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" height=40>
+</br>
 </div>
 
 <h2 align="Center">GitHub Stats</h2>
