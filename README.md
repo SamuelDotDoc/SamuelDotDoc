@@ -24,8 +24,8 @@
 <h2 align="center">Hardware Development</h2>
 <span align="left">Hardware walks side by side with software, when studing electronics I tend to think in a project applying whatever I'm learning, using microcontrollers, C/C++ and creativity in mind. Everything can be created or reverse engineered, just have to see it from another angle.</span>
 </br>
-  <h3>Softwares used</h3>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height=40><img src="https://static.thenounproject.com/png/5151631-200.png" height=40><img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" height=40>
+  <h3>Known Tools</h3>
+  <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" height=40><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=40><img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" height=40><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" height=40>
 </div>
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
