@@ -36,8 +36,6 @@
 
 <h2 align="Center">GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDotDoc&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDotDoc&layout=donut&hide=PERL,Mathematica,Roff,ASL,AGSScript)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelDotDoc&show_icons=true&theme=radical" />
 </a>
