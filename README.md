@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p>I'm a computer engineering student, curious in every way, trying to unite software developing with hardware engineering. I'm passioned about eletronics, PCB design and robotics, but also python, machine learning and embedded systems. I chose this course not knowing what's was to come, but was always excited and open minded to all the knowledge that I could possibly find. I'm and will always be searching for new topics and areas of studies.</p>
+
+<h3>Competencies and Skills</h3>
+<ul>
+  <li>Software Development</li>
+  <li>PCB Design</li>
+  <li>Eletronics and Robotics</li>
+</ul>
+
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
