@@ -36,7 +36,7 @@
 
 <h2 align="Center">GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDotDoc&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDotDoc&layout=donut&hide=PERL)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDotDoc&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDotDoc&layout=donut&hide=PERL,Mathematica,Roff,ASL,AGS Script)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
