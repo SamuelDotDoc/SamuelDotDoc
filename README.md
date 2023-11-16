@@ -27,6 +27,10 @@
   <h3>Known Tools</h3>
   <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" height=40><img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" height=40><img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" height=40><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" height=40>
 </div>
+
+<h2 align="Center">GitHub Stats</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelDotDoc&show_icons=true&theme=radical)
+
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
