@@ -13,7 +13,7 @@
 <div>
 <img align="left" alt="Coding" width="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <h3 align="center">Software Development</h3>
-<span>Started learning to code when I was in high school using Java and using MySQL as Database, as well as Web developing using HTML and CSS, now I started learning other languages such as Python, C/C++ and Assembly!</span>
+<span align="right">Started learning to code when I was in high school using Java and using MySQL as Database, as well as Web developing using HTML and CSS, now I started learning other languages such as Python, C/C++ and Assembly!</span>
 </div>
 <!--
 **SamuelDotDoc/SamuelDotDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
