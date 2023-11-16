@@ -20,7 +20,7 @@
 </div>
 
 <div>
-<img align="right" alt="Hardware" width="400" src="https://media2.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif">
+<img align="right" alt="Hardware" width="400" src="https://i.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.webp">
 <h2 align="center">Hardware Development</h2>
 <span align="left">Hardware walks side by side with software, when studing electronics I tend to think in a project applying whatever I'm learning, using microcontrollers, C/C++ and creativity in mind. Everything can be created or reverse engineered, just have to see it from another angle.</span>
 </br>
